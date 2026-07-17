@@ -1,0 +1,19 @@
+# Environnement virtuel
+.venv/
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Fichiers Jupyter
+.ipynb_checkpoints/
+
+# Modèles volumineux
+models/*.keras
+models/*.h5
+
+# Vidéos volumineuses
+Demo/Demo.mp4
+
+# Fichiers sensibles
+.env
